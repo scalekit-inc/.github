@@ -1,12 +1,10 @@
+A complete auth solution for your app - including multi-tenancy, IdP-initiated SSO, multiple SSO connections, no-code self serving admin portal for your customers.
 
+- Ship Single Sign On (SSO) with just few lines of code.
+- Allow users to login into your app with Google, Microsoft, Github so on.
 
+[![API](https://img.shields.io/badge/Developer_Docs-docs.scalekit.com-blue?style=flat)](https://docs.scalekit.com)
 
+## Backend SDKs
 
-[Scalekit](https://www.scalekit.com/) is the authentication platform that's specifically designed for B2B SaaS applications. With ready-to-deploy APIs and SDKs, you can now ship enterprise auth capabilities like Single Sign-on in just a few hours. 
-
-A complete auth solution for your B2B SaaS app - including multi-tenancy, IdP-initiated SSO, multiple SSO connections per org, self-service UI config for your customers' IT admins.
-
-
-For further information, check out:
-- Check out [API Reference](https://docs.scalekit.com/apis) for detailed API endpoints
-- [SDK Libraries](https://docs.scalekit.com/) that allow you to quickly add enterprise authentication capabilities to your B2B SaaS app
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scalekit-inc/scalekit-sdk-node?style=for-the-badge&label=NodeJS)](https://github.com/scalekit-inc/scalekit-sdk-node)
