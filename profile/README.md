@@ -9,4 +9,4 @@ A complete auth solution for your B2B SaaS app - including multi-tenancy, IdP-in
 
 For further information, check out:
 - Check out [API Reference](https://docs.scalekit.com/apis) for detailed API endpoints
-- [SDK Libraries](https://docs.scalekit.com/) that allow you to quickly add enterprise authentication capabilities to your B2B SaaS app
+- [SDK Libraries](https://docs.scalekit.com/sdks) that allow you to quickly add enterprise authentication capabilities to your B2B SaaS app
