@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="/assets/banner.png" alt="alt text" width="0%"> -->
-
   <img src="/assets/scalekit-lighttheme-logo.svg" alt="ScaleKit Logo">
   <p style="font-family: 'IBM Plex Sans', 'Inter', sans-serif; font-size: 18px;">Ship Enterprise Authentication in Hours</p>
 
@@ -17,8 +15,11 @@
 
 ### 👋 Welcome to Scalekit Github!
 
-We provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts. We abstract the complexities associated with SAML, OIDC, and OAuth 2.0, enabling you to focus on delivering a top-notch user experience.
+<div align="center" style="width: 100%; display: flex; justify-content: center;">
+  <img src="/assets/banner.png" alt="ScaleKit Banner" style="max-width: 100%; height: auto;">
+</div>
 
+We provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts. We abstract the complexities associated with SAML, OIDC, and OAuth 2.0, enabling you to focus on delivering a top-notch user experience.
 
 #### 📚 Libraries
 
