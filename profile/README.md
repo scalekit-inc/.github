@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="/assets/scalekit-darktheme-logo.svg" alt="ScaleKit Logo">
+  <img src="/assets/scalekit-lighttheme-logo.svg" alt="ScaleKit Logo">
+</div>
+
 A complete auth solution for your app - including multi-tenancy, IdP-initiated SSO, multiple SSO connections, no-code self serving admin portal for your customers.
 
 - Ship Single Sign On (SSO) with just few lines of code.
