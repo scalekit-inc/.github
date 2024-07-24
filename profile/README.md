@@ -1,15 +1,41 @@
 <div align="center">
-  <img src="/assets/scalekit-darktheme-logo.svg" alt="ScaleKit Logo">
+
+<!-- <img src="/assets/banner.png" alt="alt text" width="0%"> -->
+
   <img src="/assets/scalekit-lighttheme-logo.svg" alt="ScaleKit Logo">
+  <p style="font-family: 'IBM Plex Sans', 'Inter', sans-serif; font-size: 18px;">Ship Enterprise Authentication in Hours</p>
+
+  <p>Scalekit is an authentication platform that enables you to implement enterprise features (like Single Sign-On) with just a few lines of code.</p>
+
 </div>
 
-A complete auth solution for your app - including multi-tenancy, IdP-initiated SSO, multiple SSO connections, no-code self serving admin portal for your customers.
+<div align="center">
 
-- Ship Single Sign On (SSO) with just few lines of code.
-- Allow users to login into your app with Google, Microsoft, Github so on.
+[![Docs](https://img.shields.io/badge/Docs-blue?style=flat-square&logo=readthedocs&logoColor=ecebf0&labelColor=a173ff&color=4f5eff)](https://docs.scalekit.com) [![Get Early Access](https://img.shields.io/badge/Get_Early_Access-4f5eff?style=flat-square&labelColor=a173ff&color=3742b3)](https://www.scalekit.com/?intent=earlyaccess&utm_source=docs) [![Blog](https://img.shields.io/badge/Blog-4f5eff?style=flat-square&labelColor=a173ff&color=4f5eff)](https://www.scalekit.com/blog)
 
-[![API](https://img.shields.io/badge/Developer_Docs-docs.scalekit.com-blue?style=flat)](https://docs.scalekit.com)
+## </div>
 
-### SDKs in your preferred language
+### 👋 Welcome to Scalekit Github!
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scalekit-inc/scalekit-sdk-node?style=for-the-badge&label=NodeJS)](https://github.com/scalekit-inc/scalekit-sdk-node)
+We provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts. We abstract the complexities associated with SAML, OIDC, and OAuth 2.0, enabling you to focus on delivering a top-notch user experience.
+
+
+#### 📚 Libraries
+
+Find the official SDK repositories for different programming languages, which are regularly updated for breaking and non-breaking API changes. These libraries help you implement authentication with Scalekit safely, securely and easily.
+
+<div align="left">
+
+[![Node JS](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-node?style=for-the-badge&logo=nodedotjs&logoColor=ecebf0&logoSize=auto&label=NodeJS%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-node)
+
+[![Python SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-python?style=for-the-badge&logo=python&logoColor=ecebf0&logoSize=auto&label=Python%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-python)
+
+[![Go SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-go?style=for-the-badge&logo=go&logoColor=ecebf0&label=Go%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-go)
+
+[![Java SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-java?style=for-the-badge&logo=Task&logoColor=ecebf0&logoSize=auto&label=Java%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-java)
+
+</div>
+
+---
+
+<sub>Reach out to us anytime! 📬 hi@scalekit.com </sub>
