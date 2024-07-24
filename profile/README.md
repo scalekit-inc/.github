@@ -5,6 +5,6 @@ A complete auth solution for your app - including multi-tenancy, IdP-initiated S
 
 [![API](https://img.shields.io/badge/Developer_Docs-docs.scalekit.com-blue?style=flat)](https://docs.scalekit.com)
 
-## Backend SDKs
+### SDKs in your preferred language
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scalekit-inc/scalekit-sdk-node?style=for-the-badge&label=NodeJS)](https://github.com/scalekit-inc/scalekit-sdk-node)
