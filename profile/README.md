@@ -29,7 +29,7 @@ Find the official SDK repositories for different programming languages, which ar
 
 [![Go SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-go?style=for-the-badge&logo=go&logoColor=ecebf0&label=Go%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-go) [![Static Badge](https://img.shields.io/badge/Sample_App-ffe110?style=for-the-badge&logoColor=35363e&logoSize=auto&label=Browse&labelColor=a173ff&color=ffe110)](https://github.com/scalekit-inc/scalekit-go-example)
 
-[![Java SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-java?style=for-the-badge&logo=Task&logoColor=ecebf0&logoSize=auto&label=Java%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-java)
+[![Java SDK](https://img.shields.io/github/last-commit/scalekit-inc/scalekit-sdk-java?style=for-the-badge&logo=Task&logoColor=ecebf0&logoSize=auto&label=Java%20SDK%20%E2%8F%BA%20recent%20commit&labelColor=a173ff&color=4f5eff)](https://github.com/scalekit-inc/scalekit-sdk-java) [![Static Badge](https://img.shields.io/badge/Sample_App-ffe110?style=for-the-badge&logoColor=35363e&logoSize=auto&label=Browse&labelColor=a173ff&color=ffe110)](https://github.com/scalekit-inc/scalekit-spring-boot-example)
 
 </div>
 
