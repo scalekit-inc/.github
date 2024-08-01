@@ -14,8 +14,7 @@
 ## </div>
 
 ### 👋 Welcome to Scalekit Github!
-
-We believe B2B/SaaS teams should channel their energy into core product innovation, unburdened by the complexities of enterprise requirements and operational engineering challenges that often accompany growth. With Scalekit, you can streamline these 'long tail' overheads, so that your team can maximize their focus on what truly matters.
+We believe teams should channel their energy into core product innovation, unburdened by the complexities of enterprise requirements and operational engineering challenges that often accompany growth. With Scalekit, you can streamline these 'long tail' overheads, so that your team can maximize their focus on what truly matters.
 
 Today, we provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts.
 
