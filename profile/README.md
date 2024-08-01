@@ -15,9 +15,13 @@
 
 ### 👋 Welcome to Scalekit Github!
 
-We provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts. We abstract the complexities associated with SAML, OIDC, and OAuth 2.0, enabling you to focus on delivering a top-notch user experience.
+We believe B2B/SaaS teams should channel their energy into core product innovation, unburdened by the complexities of enterprise requirements and operational engineering challenges that often accompany growth. With Scalekit, you can streamline these 'long tail' overheads, so that your team can maximize their focus on what truly matters.
+
+Today, we provide authentication platform that is purpose-built for SaaS applications so that your app can start acquiring enterprise customers with minimum development efforts.
 
 #### 📚 Libraries
+
+We abstract the complexities associated with SAML, OIDC, and OAuth 2.0, enabling you to focus on delivering a top-notch user experience.
 
 Find the official SDK repositories for different programming languages, which are regularly updated for breaking and non-breaking API changes. These libraries help you implement authentication with Scalekit safely, securely and easily.
 
