@@ -1,9 +1,8 @@
 <div align="center">
 
-  <img src="/assets/scalekit-lighttheme-logo.svg" alt="ScaleKit Logo">
-  <p style="font-family: 'IBM Plex Sans', 'Inter', sans-serif; font-size: 18px;">Ship Enterprise Authentication in Hours</p>
+  <img src="/assets/scalekit-github-banner.png" alt="ScaleKit Logo">
 
-  <p>Scalekit is an authentication platform that enables you to implement enterprise features (like Single Sign-On) with just a few lines of code.</p>
+  <p>Scalekit is an authentication platform that enables you to implement enterprise features with just a few lines of code.</p>
 
 </div>
 
