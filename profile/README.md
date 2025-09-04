@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Scalekit
+  # scalekit
   
   **Auth Stack for AI Applications** 
 </div>
