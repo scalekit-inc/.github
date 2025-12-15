@@ -20,8 +20,11 @@ Scalekit is the auth stack for AI applications.
  **👤 User Auth Stack** - Passwordless, social, and enterprise authentication  
  **🔧 API Auth Stack** - Secure organization and user-level API access  
 
-  
- [![Docs](https://img.shields.io/badge/Docs-4f5eff?style=flat&logo=readthedocs&logoColor=white)](https://docs.scalekit.com) [![Get Started](https://img.shields.io/badge/Get_Started-6366f1?style=flat)](https://app.scalekit.com&utm_source=github) [![Blog](https://img.shields.io/badge/Blog-8b5cf6?style=flat&logo=hashnode&logoColor=white)](https://www.scalekit.com/blog) [![Join scalekit community](https://img.shields.io/badge/Community-4f5eff?style=flat&logo=theconversation&logoColor=white)]([https://docs.scalekit.com](https://join.slack.com/t/scalekit-community/shared_invite/zt-3gsxwr4hc-0tvhwT2b_qgVSIZQBQCWRw))
+[![Docs](https://img.shields.io/badge/Docs-4f5eff?style=flat&logo=readthedocs&logoColor=white)](https://docs.scalekit.com)
+[![Get Started](https://img.shields.io/badge/Get_Started-6366f1?style=flat)](https://app.scalekit.com?utm_source=github)
+[![Blog](https://img.shields.io/badge/Blog-8b5cf6?style=flat&logo=hashnode&logoColor=white)](https://www.scalekit.com/blog)
+[![Join scalekit community](https://img.shields.io/badge/Community-4f5eff?style=flat&logo=theconversation&logoColor=white)](https://join.slack.com/t/scalekit-community/shared_invite/zt-3gsxwr4hc-0tvhwT2b_qgVSIZQBQCWRw)
+
 
 
 
