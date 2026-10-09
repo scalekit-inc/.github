@@ -2,7 +2,7 @@
   
   # Scalekit
   
-  **Auth Stack for AI Applications** 
+  **Auth and actions on behalf of users** 
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
 
 <div align="center">
 
-Scalekit is the auth stack for AI applications.
+Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 
  **🎯 MCP Auth** - Turnkey OAuth 2.1 authorization server for MCP servers  
- **🔗 Agent Connect** - Tool-calling layer that lets agents act on behalf of users  
+ **🔗 Agent Connect** - Auth and actions on behalf of users, with 500+ connectors and 20,000+ tools  
  **👤 User Auth Stack** - Passwordless, social, and enterprise authentication  
  **🔧 API Auth Stack** - Secure organization and user-level API access  
 
