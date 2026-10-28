@@ -13,10 +13,10 @@
 
 <div align="center">
 
-Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+Scalekit provides auth and actions on behalf of users, with 600+ connectors and 35,000+ tools.
 
  **🎯 MCP Auth** - Turnkey OAuth 2.1 authorization server for MCP servers  
- **🔗 Agent Connect** - Auth and actions on behalf of users, with 500+ connectors and 20,000+ tools  
+ **🔗 Agent Connect** - Auth and actions on behalf of users, with 600+ connectors and 35,000+ tools  
  **👤 User Auth Stack** - Passwordless, social, and enterprise authentication  
  **🔧 API Auth Stack** - Secure organization and user-level API access  
 
